@@ -9,4 +9,3 @@ def poorly_formatted(x, y):
 def another_function(a, b):
     result = a + b
     return result
-
